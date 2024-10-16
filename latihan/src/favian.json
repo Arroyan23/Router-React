@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "nama": "Favian Rasyad",
+    "kasus": [
+      "Dugaan kasus percobaan pembunuhan kepada 10 orang",
+      "Dugaan melakukan penjualan narkoba secara terang terangan",
+      "Dugaan mengonsumsi obat obatan terlarang seperti opium",
+      "Dugaan perdagangan manusia dan penculikan terhadap anak kecil"
+    ],
+    "keywords": "favian rasyad bobiy bobby"
+  },
+  {
+    "id": "2",
+    "nama": "Favian Rasyad A.K.A Bobiy",
+    "kasus": [
+      "Dugaan melakukan kekerasan seksual",
+      "Dugaan melakukan kdrt",
+      "Dugaan penjualan minuman keras secara ilegal"
+    ],
+    "keywords": "favian rasyad bobiy"
+  },
+  {
+    "id": "3",
+    "nama": "Sammy Muhammad",
+    "kasus": [
+      "Dugaan melakukan kekerasan seksual pada sesama jenis",
+      "Dugaan penyebar berita palsu"
+    ],
+    "keywords": "sammy muhammad semi sami sam"
+  },
+  {
+    "id": "4",
+    "nama": "Muhammad Azzam Wartaputra A.K.A Ading",
+    "kasus": [
+      "Dugaan melakukan perdagangan manusia",
+      "Mensigmakan orang secara ilegal dan tanpa izin"
+    ],
+    "keywords": "azzam wartaputra adingers ading"
+  }
+]
