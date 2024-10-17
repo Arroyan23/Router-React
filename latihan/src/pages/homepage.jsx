@@ -5,6 +5,7 @@ import Search from "../components/search";
 // yang di inginkan
 import postData from "../favian.json";
 import { useState } from "react";
+import Api from "../components/api";
 
 function Home() {
   const [search, setSearch] = useState(postData);
@@ -28,6 +29,9 @@ function Home() {
           </>
         );
       })}
+
+      <Api />
+      <a href="/news">Ke halaman news</a>
     </>
   );
 }
